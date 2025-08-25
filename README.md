@@ -1,21 +1,7 @@
 # NovaFlow
-<!-- 
-	FIZ UM VÍDEO NO MEU CANAL (), 
- 	MOSTRANDO PASSO-A-PASSO DE COMO
-  	UTILIZAR ESSA DESCRIÇÃO
- 
--->
-
-<!-- MODELO PROJETO EM ANDAMENTO -->
-<h1 align="center"> 
-	🚧 {Nome do repositório} - Em contrução 🚧
-</h1>
-
-<!-- ---------------------------------------------------------------------- -->
-
 <!-- MODELO PROJETO FINALIZADO -->
 <h1 align="center"> 
-	  🚀✅ {Nome do repositório} - Concluído ✅🚀
+	  🚀✅ NovaFlow - Concluído ✅🚀
 </h1>
 
 <!-- ---------------------------------------------------------------------- -->
@@ -34,40 +20,40 @@
 
 <!-- ---------------------------------------------------------------------- -->
 
-<!-- MODELO DE DESCRIÇÃO -->
-## 📄 Descrição do entregável
-
-<!-- EXEMPLO DE DESCRIÇÃO DE UM PROJETO: -->
-- Widget (Pasta que armazena apenas o widget)
-
-- ExternalPage (Widget em uma página externa)
-
----
-
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO DESCRIÇÃO SOBRE O PROJETO: -->
-## 💻 Sobre o projeto
+Gestão Inteligente para o Seu Negócio
 
-<!-- EXPLICA O MOTIVO DO PROJETO -->
-{Nome do repositório} é um projeto criado para o processo seletivo da {Nome da Empresa}.
+Este projeto é uma interface de usuário (UI) para gestão inteligente de negócios, criada com Tailwind CSS. A proposta é fornecer uma plataforma visual intuitiva e moderna para facilitar a administração de aspectos empresariais, como controle financeiro, produtividade e otimização de processos. O foco principal é na experiência do usuário, com um design responsivo e fácil de usar.
 
-O desafio proposto para este projeto era a criação {EXPLICAR}. Neste projeto, teríamos {EXPLICAR}
+Funcionalidades
 
+Design 100% responsivo, adaptável a diferentes dispositivos (desktop, tablet, mobile)
+
+Componentes modernos e minimalistas com foco em usabilidade
+
+Navegação intuitiva para facilitar o acesso rápido a informações e funcionalidades principais
+
+Layouts de páginas planejados para otimizar o fluxo de trabalho do usuário
+
+Tecnologias Utilizadas
+
+Tailwind CSS: Framework CSS utilizado para estilização da interface
+
+HTML5: Estrutura básica do projeto
+
+JavaScript (opcional): Para funcionalidades interativas (se houver alguma interação planejada no futuro)
+
+Objetivo do Projeto
+
+Este projeto busca ser a interface visual de uma solução mais ampla de gestão inteligente para empresas. Embora ainda esteja na fase frontend, ele foi projetado para ser facilmente integrado com sistemas backend futuros, oferecendo uma experiência fluida e eficiente.
 <!-- LINHA DE DIVISÃO: -->
 ---
 
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO FUNCIONALIDADES: -->
-## ⚙️ Funcionalidades
-
-<!-- EXEMPLO DE FUNCIONALIDADES: -->
-- [x] Se o usuário não enviar mensagens dentro de 1 minuto o chat deve responder uma mensagem automaticamente.
-- [x] Se o usuário ficar inativo por 3 minutos o chat se encerra
-
----
-
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- EXEMPLO DE LAYOUT: -->
