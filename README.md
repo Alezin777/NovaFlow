@@ -71,17 +71,13 @@ Este projeto busca ser a interface visual de uma solução mais ampla de gestão
 ## 🚀 Como executar o projeto
 
 1 - Baixar o Projeto <br>
-2 - Instalar a pasta node_modules (npm install)<br>
-3 - Rodar o projeto (npm start)
+2 - Abrir o arquivo index.html
 
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO DE PRÉ REQUISITOS -->
 ### Pré-requisitos
-
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+Ter um editor para trabalhar com o código como [VSCode]
 
 ---
 
@@ -92,15 +88,9 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Front-End**  ([ReactJS](https://reactjs.org/)) 
+#### **Front-End** 
 
--   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
--   **[Styled-Component](https://styled-components.com/docs)**
-
-#### **Prototipação** ([Figma](https://www.figma.com/))
-
-- **[Minha Prototipação](https://www.figma.com/file/J1zv4Q8hCFhxhuZE5XINxu/Prototipa%C3%A7%C3%A3o-desafio-Digitalk?t=9EYQVYnf9XIZWWZr-1)**
-
+-   **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
 ---
 
 <!-- ---------------------------------------------------------------------- -->
@@ -121,11 +111,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <!-- MODELO DE AUTOR-->
 ## 🦸 Autor
 
-<a href="https://br.linkedin.com/in/matheus-maia-alvarez-">
-Matheus Maia Alvarez</a>
+<a href="https://br.linkedin.com/in/alessandrogalvaosilva">
+Alessandro Galvão Silva</a>
  <br />
  
-[![Gmail Badge](https://img.shields.io/badge/-mthalvarez2005@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mthalvarez2005@gmail.com)](mailto:mthalvarez2005@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mthalvarez2005@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mthalvarez2005@gmail.com)](mailto:alessandro.galvao01@outlook.com)
 
 ---
 
