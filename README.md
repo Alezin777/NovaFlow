@@ -62,7 +62,7 @@ Este projeto busca ser a interface visual de uma solução mais ampla de gestão
 ### Widget
 
 <!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
-https://github.com/MatheusAlvarez/NovaFlow/blob/main/Thumbnail.png
+![Web](https://github.com/MatheusAlvarez/NovaFlow/blob/main/Thumbnail.png)<br>
 ---
 
 <!-- ---------------------------------------------------------------------- -->
