@@ -62,16 +62,7 @@ Este projeto busca ser a interface visual de uma solução mais ampla de gestão
 ### Widget
 
 <!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
-![Mobile1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/mobile01.png)<br>
-![Mobile2](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/mobile02.png)<br>
-![Mobile3](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/mobile03.png)
-
-### Widget em uma página externa
-
-![Web1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/desk01.png)
-![Web1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/desk02.png)
-![Web1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/desk03.png)
-
+https://github.com/MatheusAlvarez/NovaFlow/blob/main/Thumbnail.png
 ---
 
 <!-- ---------------------------------------------------------------------- -->
